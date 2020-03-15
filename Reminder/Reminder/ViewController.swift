@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
   }
 
-
+  @IBAction func editMyLists(_ sender: Any) {
+    print("edit")
+  }
+  
 }
 
