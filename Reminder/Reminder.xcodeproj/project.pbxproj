@@ -13,6 +13,7 @@
 		8D56316B241E850600A1B923 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D563169241E850600A1B923 /* Main.storyboard */; };
 		8D56316D241E850700A1B923 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D56316C241E850700A1B923 /* Assets.xcassets */; };
 		8D563170241E850700A1B923 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D56316E241E850700A1B923 /* LaunchScreen.storyboard */; };
+		8D563178241E910B00A1B923 /* MyListsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D563177241E910B00A1B923 /* MyListsCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D56316C241E850700A1B923 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D56316F241E850700A1B923 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D563171241E850700A1B923 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D563177241E910B00A1B923 /* MyListsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListsCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8D563163241E850600A1B923 /* AppDelegate.swift */,
 				8D563165241E850600A1B923 /* SceneDelegate.swift */,
 				8D563167241E850600A1B923 /* ViewController.swift */,
+				8D563177241E910B00A1B923 /* MyListsCell.swift */,
 				8D563169241E850600A1B923 /* Main.storyboard */,
 				8D56316C241E850700A1B923 /* Assets.xcassets */,
 				8D56316E241E850700A1B923 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D563168241E850600A1B923 /* ViewController.swift in Sources */,
+				8D563178241E910B00A1B923 /* MyListsCell.swift in Sources */,
 				8D563164241E850600A1B923 /* AppDelegate.swift in Sources */,
 				8D563166241E850600A1B923 /* SceneDelegate.swift in Sources */,
 			);
